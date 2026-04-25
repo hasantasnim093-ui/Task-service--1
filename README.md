@@ -35,4 +35,7 @@ Deleted -  a feature that will delete , after deleted [204 no content] showen t0
 
 video guide to the project - https://drive.google.com/file/d/1emWxx1gTRm4Wbvm4qhR9kHdqZpf3HK73/view?usp=sharing
 
+part 2 database implementation - https://docs.google.com/document/d/1Bo2wEfQ61OsgUBOfQhWZaOIRWfnKoF2dquKYhFyjPz8/edit?tab=t.0
+
+
 
