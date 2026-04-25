@@ -35,13 +35,14 @@ Deleted -  a feature that will delete , after deleted [204 no content] showen t0
 
 video guide to the project - https://drive.google.com/file/d/1emWxx1gTRm4Wbvm4qhR9kHdqZpf3HK73/view?usp=sharing
 
-part 2 database implementation - https://docs.google.com/document/d/1Bo2wEfQ61OsgUBOfQhWZaOIRWfnKoF2dquKYhFyjPz8/edit?tab=t.0
+part 2 database implementation(hw6) - https://docs.google.com/document/d/1Bo2wEfQ61OsgUBOfQhWZaOIRWfnKoF2dquKYhFyjPz8/edit?tab=t.0
 following screenshots shows successfull endpoints of this task process , it shows the creation (post) throough it being sucessfully creating and being verfied by (GET) which was accessed through the controller. 
 
 The pagination method in the controller shows seperation of process and how it is indicated. 
 when tested in postman to get data we do 0 - 5 page which means we collect a portion of the data we want 
 instead of collecting the whole data each may be inefficient.
 
+video guide to data implementation - https://drive.google.com/file/d/18np-d3nyxI1q1HdZw2TsQyMSVhII9cV6/view?usp=sharing
 
 
 
