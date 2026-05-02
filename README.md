@@ -64,6 +64,7 @@ As user could enter an invalid response to our System which allows for crash
 This is where DTOs come in which provides limited user task request that would allow zero - minimal errors 
 
 
-video guide to Exception handling and DTOs in this project - 
+video guide to Exception handling and DTOs in this project - https://drive.google.com/file/d/1daq4wVOIXMLPH0ry8g1kaHk7lOU9AD1c/view?usp=sharing
+
 
 
