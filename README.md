@@ -45,4 +45,25 @@ instead of collecting the whole data each may be inefficient.
 video guide to data implementation - https://drive.google.com/file/d/18np-d3nyxI1q1HdZw2TsQyMSVhII9cV6/view?usp=sharing
 
 
+part 3 
+
+Error resposnse screenshots - https://docs.google.com/document/d/1SV_dW1JZOwCJTfrDzikUEweH2A_uf_W_OSIH6zxONCM/edit?usp=sharing  
+
+Exception handling integrated into this project creates a safe barrier that allows for the whole project to not crash
+
+Creating a system, when a incorrect process was entered by the user, the exception handler catches the error and responds with a error message , rather then the whole project crashing 
+
+Creating DTOs, 
+
+DTO - Data transfer object 
+its acts as a layer of safety in how our backend recives and provides data to the user
+
+integrating this allows as a layer of protection from mis-use from user end 
+As user could enter an invalid response to our System which allows for crash 
+
+This is where DTOs come in which provides limited user task request that would allow zero - minimal errors 
+
+
+video guide to Exception handling and DTOs in this project - 
+
 
