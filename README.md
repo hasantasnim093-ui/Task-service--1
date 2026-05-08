@@ -66,5 +66,35 @@ This is where DTOs come in which provides limited user task request that would a
 
 video guide to Exception handling and DTOs in this project - https://drive.google.com/file/d/1daq4wVOIXMLPH0ry8g1kaHk7lOU9AD1c/view?usp=sharing
 
+part -4
+
+Successfull end point test - https://docs.google.com/document/d/1V-thaHgqz4jpmoBc7lhF_0cZgE8x_lZhn2pFDAiJaMc/edit?usp=sharing
+
+
+The security aspect of this project
+
+Currently our backend system allows our product to be accessed without any credentials or process
+
+In defination anyone in the internet could Access our product which creates vulnerability to our system.
+
+This is where Spring secuirty comes in, it allows proper access to the individual that is credible and verfied to call our backend system
+
+How this Security feature was implemented?
+ 
+Allowing credible frontend ( 3030 ) services to call this backend system 
+
+Endpoints - Only allowing specific endpoints to be processed 
+
+which means it was configuered in a way where some endpoints are public(accesible) and private 
+
+
+video guide - https://drive.google.com/file/d/1p2q2pAdzNCD49JRnxhwrR1gDweUAYLBR/view?usp=sharing
+
+
+
+
+
+
+
 
 
